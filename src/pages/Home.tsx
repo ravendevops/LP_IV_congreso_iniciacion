@@ -44,7 +44,7 @@ const lunesMañana: SessionEntry[] = [
   { hora: '11:45 – 12:00', ponente: 'Brigida Sandra Mamani Arratia', tema: 'Recuperación de suelos contaminados por metales pesados mediante fitorremediación y enmiendas minerales en la mina escuela Carolina – Puno', type: 'ponencia' },
   { hora: '12:00 – 12:15', ponente: 'Kris Ximena Colquehuanca Zapana', tema: 'El Altiplano bajo cero: Predicción de heladas severas en Puno mediante aprendizaje profundo con atención temporal e integración del fenómeno El Niño', type: 'ponencia' },
   { hora: '12:15 – 12:30', ponente: 'Yimmy Cristhian Morocco Apaza', tema: 'Determinantes socioespaciales y evolución de la severidad de la anemia infantil en las provincias de la región Puno, 2021–2025', type: 'ponencia' },
-  { hora: '12:30 – 12:45', ponente: 'Lady Kelyn Mendo Surco', tema: 'Tecnología electroquímica avanzada para la producción sostenible de hidrógeno verde en regiones altoandinas: innovación en materiales, electrodos impresos en 3D e integración de energías renovables', type: 'ponencia' },
+  { hora: '12:30 – 12:45', ponente: 'Lady Kelyn Mendo Surco, Brayan Edy Flores Mamani', tema: 'Tecnología electroquímica avanzada para la producción sostenible de hidrógeno verde en regiones altoandinas: innovación en materiales, electrodos impresos en 3D e integración de energías renovables', type: 'ponencia' },
   { hora: '12:45 – 13:00', ponente: 'Franco Rojas Luque, José Miguel Mendoza Macedo', tema: 'Andes-DT: gemelo digital neural con inteligencia artificial generativa y modelos de difusión para la simulación predictiva 4D del cambio climático en el altiplano peruano', type: 'ponencia' },
   { hora: '13:00 – 14:00', tema: 'Almuerzo', type: 'almuerzo' },
 ];
