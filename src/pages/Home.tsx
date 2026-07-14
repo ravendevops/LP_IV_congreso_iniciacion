@@ -69,7 +69,7 @@ const martesMañana: SessionEntry[] = [
   { hora: '09:00 – 10:00', ponente: 'Dra. Elizabeth V. Davila Maguiña', tema: 'De la investigación al mercado: La propiedad intelectual como herramienta para la transferencia de tecnología', type: 'magistral' },
   { hora: '10:00 – 10:15', ponente: 'Yeny Maribel Valeriano Cutiri', tema: 'Revitalizando el aimara desde la escuela: impacto de talleres lúdicos en las actitudes lingüísticas de estudiantes de primaria', type: 'ponencia' },
   { hora: '10:15 – 10:30', ponente: 'Jackeline Apaza Umpire', tema: 'Formas de razonamiento sobre la incertidumbre en la lectura ritual de la hoja de coca: una aproximación etnomatemática desde los yatiris de Juliaca', type: 'ponencia' },
-  { hora: '10:30 – 10:45', ponente: 'Melany Jhojana Calsina Aroquipa', tema: 'Robótica educativa para potenciar el desarrollo de habilidades tecnológicas en estudiantes de educación primaria', type: 'ponencia' },
+  { hora: '10:30 – 10:45', ponente: 'Erika Morelia Flores Garnica', tema: 'Robótica educativa para potenciar el desarrollo de habilidades tecnológicas en estudiantes de educación primaria', type: 'ponencia' },
   { hora: '10:45 – 11:00', ponente: 'Myrian Katherine Quiza Ramos, Liseth Nayely Palomino Ccansaya', tema: 'Educación ambiental y desarrollo sostenible en estudiantes universitarios del altiplano puneño', type: 'ponencia' },
   { hora: '11:00 – 11:15', ponente: 'María de los Ángeles Soto Quispe, Luz Guiliana Apaza Tipo', tema: 'Perspectivas del uso de inteligencia artificial generativa ChatGPT y su relación con la formación académica en estudiantes universitarios', type: 'ponencia' },
   { hora: '11:15 – 11:30', tema: 'Descanso', type: 'break' },
